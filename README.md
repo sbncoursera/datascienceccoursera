@@ -1,2 +1,2 @@
-# datascienceccoursera
-Datascience-AMT-Repo
+# datasciencecoursera
+Datascience-Project-Repo
